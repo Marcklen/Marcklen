@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning the wonders of this Java technology and am always willing to learn new things!
 - 💞️ I’m looking to collaborate on with some internship or if possible with a job as a java dev - beginner
 - 📫 How to reach me ? Well, you can send me a email (marcklen@icloud.com)
+- 📍  Or you also can find me at "https://www.linkedin.com/in/marcklenguimaraes/" this is my LinkedIn Profile.
 
 <!---
 Marcklen/Marcklen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
