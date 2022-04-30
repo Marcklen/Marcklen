@@ -17,8 +17,6 @@ You can click the Preview link to take a look at your changes.
 </div>
    
 <div style="display: inline_block"><br>
-  <i class="devicon-java-plain-wordmark colored"></i>
-  <img height="100em" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img height="45em" img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img height="45em" img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img height="45em" img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
