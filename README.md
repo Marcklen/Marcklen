@@ -2,7 +2,7 @@
 - 🎓 I'm studying Systems Analysis and Development(Analise e Desenvolvimento de Sistemas), I also can speak in English , Portuguese (ofcourse!) and a little bit Spanish.
 - 👀 I’m interested in working as a Developer Java Back End
 - 🌱 I’m currently learning the wonders of this Java technology and am always willing to learn new things!
-- 💞️ I’m looking to collaborate on with some internship or if possible with a job as a java dev - beginner
+- 💞️ I’m looking to collaborate on with some internship or if possible with a job as a java dev junior
 - 📫 How to reach me ? Well, you can send me a email (marcklen@icloud.com)
 - 📍  Or you also can find me at "https://www.linkedin.com/in/marcklenguimaraes/" this is my LinkedIn Profile.
 
