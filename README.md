@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Marcklen. I'm 37 , I'm from Brazil
-- 🎓 I'm studying Systems Analysis and Development(Analise e Desenvolvimento de Sistemas), I also can speak in English , Portuguese (ofcourse!) and a little bit Spanish.
-- 👀 I’m interested in working as a Developer Java Back End
-- 🌱 I’m currently learning the wonders of this Java technology and am always willing to learn new things!
-- 💞️ I’m looking to collaborate on with some internship or if possible with a job as a java dev junior
-- 📫 How to reach me ? Well, you can send me a email (marcklen@icloud.com)
-- 📍  Or you also can find me at "https://www.linkedin.com/in/marcklenguimaraes/" this is my LinkedIn Profile.
+- 👋 Olá, meu nome é Marcklen e sou de Fortaleza - Ceará - Brasil.
+- 🎓 Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Estácio - EAD.
+- 👀 Me interesso por desenvolvimento backend com Java ☕
+- 📫 Caso queira falar comigo , este é meu email (marcklen@icloud.com)
+- 📍  E você também me acha no LinkedIn "https://www.linkedin.com/in/marcklenguimaraes/"
 
 <!---
 Marcklen/Marcklen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
