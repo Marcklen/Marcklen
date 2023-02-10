@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <img height="35em" img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
   <img height="35em" img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img height="35em" img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img height="35em" img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img height="35em" img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij&logoColor=white" />
 </div> 
   
   ###
