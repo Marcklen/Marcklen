@@ -1,8 +1,8 @@
 - 👋 Olá, meu nome é Marcklen e sou de Fortaleza - Ceará - Brasil.
 - 🎓 Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Estácio - EAD.
-- 👀 Atualmente atuo como desenvolvedor backend utilizando Java ☕ + Spring Boot 🍀 na DBC Company.
-- 📫 Caso queira falar comigo , este é meu email (marcklen@icloud.com)
-- 📍  E você também me acha no LinkedIn "https://www.linkedin.com/in/marcklenguimaraes/"
+- 💻 Atualmente sou desenvolvedor Backend na DBC Company utilizando Java ☕ e Spring Boot 🍀.
+- 📫 Caso queira falar comigo, este é meu email (marcklen@icloud.com).
+- 🔗 E você também me acha no LinkedIn "https://www.linkedin.com/in/marcklenguimaraes/"
 
 <!---
 Marcklen/Marcklen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
