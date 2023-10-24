@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Marcklen e sou de Fortaleza - Ceará - Brasil.
 - 🎓 Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Estácio - EAD.
-- 💻 Atualmente sou Desenvolvedor de Sistemas na DBC Company.
+- 💻 Atualmente sou Analista de Sistemas II na Superintendência de Obras Públicas do Estado do Ceará.
 - 📫 Caso queira falar comigo, este é meu email (marcklen@icloud.com).
 - 🔗 E você também me acha no LinkedIn "https://www.linkedin.com/in/marcklenguimaraes/"
 
