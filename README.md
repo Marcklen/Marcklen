@@ -22,7 +22,8 @@
 
 ## 💡 Sobre meus projetos
 
-🔧 Atuo principalmente no desenvolvimento de sistemas para controle de obras públicas, gestão de aquisições, integrações RESTful e uso de padrões como MVC e State Machine.  
+🔧 Atuo principalmente no desenvolvimento de sistemas para controle de obras públicas, gestão de aquisições, integrações RESTful, seguindo boas práticas de arquitetura como o padrão MVC e foco em escalabilidade e manutenibilidade.
+
 📁 Meus repositórios refletem meu foco em **backend com Java/Spring Boot**, **frontend com Angular/Next.js** e **infraestrutura com Docker/Kafka/Redis**.
 
 ---
