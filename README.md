@@ -1,12 +1,20 @@
-# 👋 Olá, eu sou o Marcklen!
+# 👋 Hi, I'm Marcklen Guimarães
 
-🎓 Sou graduado em **Análise e Desenvolvimento de Sistemas** e também em **Administração**.  
-💼 Atualmente atuo como **Analista de Sistemas II** na **Superintendência de Obras Públicas do Estado do Ceará**.  
-🌍 Baseado em **Fortaleza - Brasil**, tenho experiência com sistemas públicos e arquiteturas modernas baseadas em microsserviços.
+🎓 I hold degrees in **Systems Analysis and Development** and **Business Administration**.
+💼 I currently work as a **Systems Analyst II** at **Superintendência de Obras Públicas do Estado do Ceará**.  
+🌍 Based in **Fortaleza, Brazil**, with solid experience in public-sector systems and modern, scalable architectures.
+
+🔗 **Portuguese version:** [Leia em Português 🇧🇷](./README.pt-BR.md)
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tech Stack & Tools
+
+- **Backend:** Java (8/11/17), Spring Boot, RESTful APIs  
+- **Frontend:** Angular, Next.js  
+- **Databases:** PostgreSQL  
+- **Messaging & Streaming:** Kafka, Redis  
+- **DevOps & Infra:** Docker, CI/CD, Git 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -20,11 +28,26 @@
 
 ---
 
-## 💡 Sobre meus projetos
+## 💡 About My Work
 
-🔧 Atuo principalmente no desenvolvimento de sistemas para controle de obras públicas, gestão de aquisições, integrações RESTful, seguindo boas práticas de arquitetura como o padrão MVC e foco em escalabilidade e manutenibilidade.
+I primarily develop systems focused on **public infrastructure management**, including:
+- Public works control and monitoring  
+- Contract and acquisition management  
+- Financial and document workflows  
+- RESTful system integrations  
 
-📁 Meus repositórios refletem meu foco em **backend com Java/Spring Boot**, **frontend com Angular/Next.js** e **infraestrutura com Docker/Kafka/Redis**.
+I follow best practices such as **clean architecture**, **MVC pattern**, **scalability**, and **maintainability**, with a strong backend orientation.
+
+---
+
+## 📁 Projects
+
+My repositories reflect hands-on experience with:
+- **Java / Spring Boot** backend services  
+- **Angular / Next.js** front-end applications  
+- **Infrastructure and messaging** using Docker, Kafka, and Redis  
+
+Several projects demonstrate **real-world, production-grade systems**, including full REST APIs integrated with modern front-end stacks.
 
 ---
 
@@ -35,9 +58,7 @@
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - 📧 **marcklen@icloud.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marcklenguimaraes/)
-
----
