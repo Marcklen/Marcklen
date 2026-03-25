@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marcklen Guimarães
 
-🎓 I hold degrees in **Systems Analysis and Development** and **Business Administration**.
+🎓 I hold degrees in **Systems Analysis and Development** and **Business Administration**. <br>
 💼 I currently work as a **Full stack Developer** at **Secretária de Saúde do Ceará**.  
 🌍 Based in **Fortaleza, Brazil**, with solid experience in public-sector systems and modern, scalable architectures.
 
@@ -10,7 +10,7 @@
 
 ## 🚀 Tech Stack & Tools
 
-- **Backend:** Java (8/11/17), Spring Boot, RESTful APIs  
+- **Backend:** Java (8/11/17), Spring Boot, RESTful APIs, JSF, Richfaces
 - **Frontend:** Angular, Next.js  
 - **Databases:** PostgreSQL  
 - **Messaging & Streaming:** Kafka, Redis  
