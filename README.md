@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Marcklen Guimarães
 
 🎓 I hold degrees in **Systems Analysis and Development** and **Business Administration**.
-💼 I currently work as a **Systems Analyst II** at **Superintendência de Obras Públicas do Estado do Ceará**.  
+💼 I currently work as a **Full stack Developer** at **Secretária de Saúde do Ceará**.  
 🌍 Based in **Fortaleza, Brazil**, with solid experience in public-sector systems and modern, scalable architectures.
 
 🔗 **Portuguese version:** [Leia em Português 🇧🇷](./README.pt-BR.md)
